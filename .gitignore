@@ -1,0 +1,14 @@
+HELP.md
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+### VS Code ###
+.vscode/
